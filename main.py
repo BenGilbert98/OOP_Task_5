@@ -6,4 +6,3 @@ letter_count = Count()
 
 sequence.random_dna_sequence()
 
-letter_count.count(sequence.dataset)
